@@ -104,6 +104,13 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+/* .flex-container {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+} */
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
